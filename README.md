@@ -10,5 +10,5 @@ Kuzushiji-MNIST is a drop-in replacement for the MNIST dataset (28x28 grayscale,
 The images are storred in numpy arrays of 60,000 x 28 x 28 and 10,000 x 28 x 28, respectively. The labels are also stored in two numpy arrays, one for train and another for the test set.
 
 <p align="center">
-  <img src="https://shashank73.github.io/assets/kmnist/kmnist_examples.png">
+  <img src="https://github.com/rois-codh/kmnist/blob/master/images/kmnist_examples.png">
 </p>
